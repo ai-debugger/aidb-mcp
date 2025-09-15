@@ -5,4 +5,5 @@ sphinx
 sphinx-copybutton
 sphinx-design
 sphinx-favicon
+linkify-it-py
 tomli; python_version < '3.11'
